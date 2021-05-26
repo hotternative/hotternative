@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hotternative
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning pandas and django.
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m proficient in Python, interested in C++ and Go.
+- 🌱 I’m currently learning data analysis, data structure and algorithm in Python.
+- 💞️ I’m looking to collaborate on startup projects.
 - 📫 How to reach me: l001d at hotmail dot com 
 
 <!---
