@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hotternative
-- 👀 I’m proficient in Python, interested in C++ and Go.
+- 👀 I’m proficient in Python.
 - 🌱 I’m currently learning data analysis and algorithms.
 - 💞️ I’m looking to collaborate on startup projects.
 - 📫 How to reach me: l001d at hotmail dot com 
