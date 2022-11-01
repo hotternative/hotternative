@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hotternative
-- 👀 I’m proficient in Python.
-- 🌱 I’m currently learning data analysis and algorithms.
+- 👀 I’m proficient in Python web development and data analysis.
+- 🌱 I’m currently learning Rust and improving my system design and algorithms.
 - 💞️ I’m looking to collaborate on startup projects.
 - 📫 How to reach me: l001d at hotmail dot com 
 
